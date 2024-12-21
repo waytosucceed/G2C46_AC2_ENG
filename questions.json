@@ -1,0 +1,181 @@
+[
+   
+    {
+      "questionNo": "Q1.",
+      "question": " \"Sun\" rhymes with \"fun\".",
+      "options": [
+        { "text": "True" },
+        { "text": "False" }
+      ],
+      "correct": 0,
+      "explanation": "'Tree' has only one syllable. Even though it has two 'E's, they make one long 'E' sound together."
+    },
+    {
+      "questionNo": "Q2.",
+      "question": "Which word does not rhyme with \"blue\"? ",
+
+      "options": [
+        { "text": "New" },
+        { "text": "Shoe" },
+        { "text": "Tree" },
+        { "text": "Shoe" }
+      ],
+      "correct": 2,
+      "explanation": "The correct word is 'Hen.' The letter 'E' in the word 'Hen' sounds like a short 'eh' sound."
+    },
+    {
+      "questionNo": "Q3.",
+      "question": "\"Dog\" rhymes with \"frog\". ",
+
+      "options": [
+        { "text": "True" },
+        { "text": "False" }
+      ],
+      "correct": 0,
+      "explanation": "The correct word is 'Speed.' The letter 'E' in the word 'Speed' makes a long 'E' sound, as in the words 'See' and 'Tree.'"
+    },
+    {
+      "questionNo": "Q4.",
+      "question": "Fill in the blank:<br> \"Cake\" rhymes with \"___\".",
+      "options": [
+        { "text": "Make" },
+        { "text": "Cat" },
+        { "text": "Cook" },
+        { "text": "Cup" }
+      ],
+      "correct": 0,
+      "explanation": "The correct word is 'Sheep.' The letter 'E' in the word 'Sheep' makes a long 'E' sound, as in the words 'See' and 'Tree.'"
+    },
+    {
+      "questionNo": "Q5.",
+      "question": "Choose the correct spelling:",
+      "secondImg":"2.png",
+      "options": [
+        { "text": "Huse" },
+        { "text": "House" },
+        { "text": "Haws" },
+        { "text": "Hawse" }
+      ],
+      "correct": 1,
+      "explanation": "The correct word is 'Egg.' The letter 'E' in the word 'Egg' sounds like a short 'eh' sound in the starting."
+    },
+    {
+      "questionNo": "Q6.",
+      "question": "Choose the correct spelling:",
+      "secondImg":"3.png",
+      "options": [
+        { "text": "Guarden" },
+        { "text": "Gaarden" },
+        { "text": "Garden" },
+        { "text": "Gurden" }
+      ],
+      "correct": 2,
+      "explanation": "The correct word is 'Break.' The letter 'E' in the word 'Break' makes a 'a' sound when it is pronounced with the letter 'A.'"
+    },
+   
+    {
+      "questionNo": "Q7.",
+      "question": "Fill in the blank: <br>\"Moon\" rhymes with \"___\".",
+      "options": [
+        { "text": "Soon" },
+        { "text": "Man" },
+        { "text": "Milk" },
+        { "text": "Mop" }
+      ],
+      "correct": 0,
+      "explanation": "The poem says, 'You can hear the wind that speaks' on the mountain peaks. This shows the sound of the wind is special in the mountains."
+    },
+    {
+      "questionNo": "Q8.",
+      "question": " \"Pig\" rhymes with \"big\". ",
+      "options": [
+        { "text": "True" },
+        { "text": "False" }
+      ],
+      "correct": 0,
+      "explanation": "The poem mentions, 'The air is fresh, the breeze so sweet,' which means the air feels nice and clean."
+    },
+    {
+      "questionNo": "Q9.",
+      "question": "Fill in the blank: <br>\"Hop\" rhymes with \"___\". ",
+      "options": [
+        {
+          "text": "Hip"
+        },
+        {
+          "text": "Hap"
+        },
+        {
+          "text": "Top"
+        },
+        {
+          "text": "Tap"
+        }
+      ],
+      "correct": 2,
+      "explanation": "The poem says, \"The sun sets behind the hills,\" meaning that’s where the sun goes down."
+    },
+    {
+      "questionNo": "Q10.",
+      "question": "Complete the rhyme:<br>He dug a <b>hole</b> for the ______.",
+
+      "options": [
+        {
+          "text": "Soil"
+        },
+        {
+          "text": "Pole"
+        },
+        {
+          "text": "Hat"
+        },
+        {
+          "text": "Lift"
+        }
+      ],
+      "correct": 1,
+      "explanation": "'Meat' has the same long 'E' sound as 'meet'. Both make a long 'E' sound. They are homophones - words that sound the same but have different spellings and meanings."
+    },
+    {
+      "questionNo": "Q11.",
+      "question": "Complete the rhyme:<br>The<b> boy</b> has a red ______. ",
+
+      "options": [
+        {
+          "text": "Coil"
+        },
+        {
+          "text": "Foil"
+        },
+        {
+          "text": "Toy"
+        },
+        {
+          "text": "None of the above"
+        }
+      ],
+      "correct": 2,
+      "explanation": "'Meat' has the same long 'E' sound as 'meet'. Both make a long 'E' sound. They are homophones - words that sound the same but have different spellings and meanings."
+    },
+    {
+      "questionNo": "Q12.",
+      "question": " Fill in the blank:<br> \"Ring\" rhymes with \"___\"",
+
+      "options": [
+        {
+          "text": "Rang"
+        },
+        {
+          "text": "Rung"
+        },
+        {
+          "text": "Sing"
+        },
+        {
+          "text": "Rong"
+        }
+      ],
+      "correct": 2,
+      "explanation": "'Meat' has the same long 'E' sound as 'meet'. Both make a long 'E' sound. They are homophones - words that sound the same but have different spellings and meanings."
+    }
+  ]

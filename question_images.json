@@ -1,0 +1,148 @@
+[
+  {
+    "questionNo": "Q13.",
+    "question": "Which word rhymes with \"cat\"? ",
+    "optionsImages": [
+      "./images/option/1.jpg",
+      "./images/option/2.jpg",
+      "./images/option/3.jpg",
+      "./images/option/4.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/dog.mp3",
+      "./sound/hat.mp3",
+      "./sound/fish.mp3",
+      "./sound/car.mp3"
+    ],
+    "explanation": "The word 'tree' has the same long 'E' sound as 'bee'. Both words have the 'EE' spelling that makes the long 'E' sound, like in 'eeee'."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": ". Fill in the blank:<br> \"Star\" rhymes with \"___\".",
+    "optionsImages": [
+      "./images/option/4.jpg",
+      "./images/option/1.jpg",
+      "./images/option/5.jpg",
+      "./images/option/6.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "./sound/car.mp3",
+      "./sound/dog.mp3",
+      "./sound/tree.mp3",
+      "./sound/ball.mp3"
+    ],
+    "explanation": "In 'bed', the 'E' makes a short 'E' sound (like in 'eh'). The other words (seed, feed, need) all have the long 'E' sound made by 'EE'."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Which word rhymes with \"bear\"? ",
+    "optionsImages": [
+      "./images/option/7.jpg",
+      "./images/option/8.jpg",
+      "./images/option/9.jpg",
+      "./images/option/10.jpg"
+    ],
+    "correct": 3,
+    "optionsAudio": [
+      "./sound/boar.mp3",
+      "./sound/brave.mp3",
+      "./sound/bird.mp3",
+      "./sound/hair.mp3"
+    ],
+    "explanation": "In 'pet', the 'E' makes a short 'E' sound, which is the same sound as the 'E' in 'egg'. It's a quick 'eh' sound."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": " Fill in the blank:<br> \"Tree\" rhymes with \"___\".",
+    "optionsImages": [
+      "./images/option/11.jpg",
+      "./images/option/12.jpg",
+      "./images/option/13.jpg",
+      "./images/option/14.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "./sound/three.mp3",
+      "./sound/train.mp3",
+      "./sound/toy.mp3",
+      "./sound/top.mp3"
+    ],
+    "explanation": "In 'sheep', the 'EE' makes a long 'E' sound, just like in 'me'. It's the sound you make when you say the letter 'E'."
+  },
+
+    {
+      "questionNo": "Q17.",
+      "question": "Which word does not rhyme with \"rain\"? ",
+      "optionsImages": [
+        "./images/option/15.jpg",
+        "./images/option/12.jpg",
+        "./images/option/16.jpg",
+        "./images/option/17.jpg"
+      ],
+      "correct": 3,
+      "optionsAudio": [
+        "./sound/pain.mp3",
+        "./sound/train.mp3",
+        "./sound/main.mp3",
+        "./sound/run.mp3"
+      ],
+      "explanation": "'Bet' has a short 'E' sound (like 'eh'), while all the other words (feet, beat, seat) have a long 'E' sound."
+    },
+    {
+      "questionNo": "Q18.",
+      "question": "Which word rhymes with \"hand\"? ",
+      "optionsImages": [
+        "./images/option/18.jpg",
+        "./images/option/19.jpg",
+        "./images/option/20.jpg",
+      "./images/option/2.jpg"
+      ],
+      "correct": 1,
+      "optionsAudio": [
+        "./sound/head.mp3",
+        "./sound/sand.mp3",
+        "./sound/hut.mp3",
+        "./sound/hat.mp3"
+      ],
+      "explanation": "In 'she', the 'E' at the end makes a long 'E' sound, just like in 'me'. It's the sound of the letter 'E'."
+    },
+    {
+      "questionNo": "Q19.",
+      "question": " Which word does not rhyme with \"light\"? ",
+      "optionsImages": [
+        "./images/option/21.jpg",
+        "./images/option/22.jpg",
+        "./images/option/23.jpg",
+        "./images/option/24.jpg"
+      ],
+      "correct": 3,
+      "optionsAudio": [
+        "./sound/bright.mp3",
+        "./sound/kite.mp3",
+        "./sound/night.mp3",
+        "./sound/lift.mp3"
+      ],
+      "explanation": "'Bed' has a short 'E' (like 'eh') sound and doesn't rhyme with the others. 'Bee', 'see', and 'tree' all have the long 'E' sound and rhyme."
+    },
+    {
+      "questionNo": "Q20.",
+      "question": "Which word rhymes with \"boat\"? ",
+      "optionsImages": [
+        "./images/option/25.jpg",
+        "./images/option/26.jpg",
+        "./images/option/27.jpg",
+        "./images/option/28.jpg"
+      ],
+      "correct": 3,
+      "optionsAudio": [
+        "./sound/boot.mp3",
+        "./sound/beat.mp3",
+        "./sound/bat.mp3",
+        "./sound/coat.mp3"
+      ],
+      "explanation": "'Seed' has a long 'E' sound made by the 'EE'. The other words (bed, red, led) all have a short 'E' sound."
+    }
+    
+]
